@@ -1,6 +1,6 @@
-🏫 Object-Oriented School Management System (C++)
-A simple console-based school system written in object-oriented C++.
-Features include subject & absence tracking, student registration, failed grade display, BMI-based physical data, and tuition fee calculator with citizenship logic.
+## 🏫 Object-Oriented School Management System (C++)
+- A simple console-based school system written in object-oriented C++.
+- Features include subject & absence tracking, student registration, failed grade display, BMI-based physical data, and tuition fee calculator with citizenship logic.
 
 ## ✨ Features
 - 🧑‍🎓 Student registration with age & gender validation
