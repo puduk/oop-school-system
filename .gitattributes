@@ -1,0 +1,17 @@
+# Auto detect text files and normalize line endings
+* text=auto
+
+# Treat C++ files as text
+*.cpp text
+*.hpp text
+*.h text
+*.c text
+
+# For consistent diff view on GitHub
+*.cpp diff=cpp
+*.hpp diff=cpp
+
+# Exclude binaries from diff
+*.exe binary
+*.dll binary
+*.so binary

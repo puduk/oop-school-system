@@ -1,0 +1,40 @@
+# CLion & CMake
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+
+# Windows
+Thumbs.db
+*.exe
+*.obj
+*.pch
+*.pdb
+*.ilk
+
+# Compiled Object files
+*.o
+*.lo
+*.la
+*.al
+*.so
+*.a
+*.lib
+*.dll
+
+# Editor configs
+.idea/
+.vscode/
+*.user
+*.suo
+*.ncb
+*.vcproj*
+*.opensdf
+*.sdf
+
+# Logs & Misc
+*.log
+*.tmp
+*.swp
