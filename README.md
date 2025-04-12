@@ -3,49 +3,49 @@ A simple console-based school system written in object-oriented C++.
 Features include subject & absence tracking, student registration, failed grade display, BMI-based physical data, and tuition fee calculator with citizenship logic.
 
 ## ✨ Features
-- 🧑‍🎓 Student registration with age & gender validation
-- 📚 Add subjects and grades (0-100)
-- 📈 Show best grade with real-time update
-- 📉 Show failed subjects below 50
-- 📅 Absence system with max limit & input check
-- 🌍 Tuition calculator based on Polish / EU citizenship
-- 🪪 Student card with formatted display using iomanip
-- 🧮 BMI calculator and 18+ eligibility checker
-- 🔄 Menu-based navigation with switch-case logic
-- 🔁 Input validation and user feedback with while, do-while
+🧑‍🎓 Student registration with age & gender validation
+📚 Add subjects and grades (0-100)
+📈 Show best grade with real-time update
+📉 Show failed subjects below 50
+📅 Absence system with max limit & input check
+🌍 Tuition calculator based on Polish / EU citizenship
+🪪 Student card with formatted display using iomanip
+🧮 BMI calculator and 18+ eligibility checker
+🔄 Menu-based navigation with switch-case logic
+🔁 Input validation and user feedback with while, do-while
 ---
 ## 🧠 Technologies & Concepts Used
-- ✅ Object-Oriented Programming using a Student class
-- ✅ Modular project structure with .cpp / .hpp separation
-- ✅ Input validation using cin.fail(), bounds, and conditions
-- ✅ BMI formula implementation with formatted output
-- ✅ Menu control via loops and branching
-- ✅ Console UI and user flow logic
+✅ Object-Oriented Programming using a Student class
+✅ Modular project structure with .cpp / .hpp separation
+✅ Input validation using cin.fail(), bounds, and conditions
+✅ BMI formula implementation with formatted output
+✅ Menu control via loops and branching
+✅ Console UI and user flow logic
 ---
 ## 📝 Notes
-- 📌 This is my 5th C++ project, built to strengthen my understanding of classs and modular design.
-- 📌 No advanced libraries or file I/O were used — only variables, loops, and pure logic.
-- 📌 Separated all source files for better real-world practice.
-- 📌 BMI and Citizenship logic were implemented with real formulas & reasoning.
+📌 This is my 5th C++ project, built to strengthen my understanding of classs and modular design.
+📌 No advanced libraries or file I/O were used — only variables, loops, and pure logic.
+📌 Separated all source files for better real-world practice.
+📌 BMI and Citizenship logic were implemented with real formulas & reasoning.
 ---
 ##🏗️ File Structure
 
 📁 Fifth_Project/
-│
-├── absences_shower.cpp / .hpp
-├── citizenship_check.cpp / .hpp
-├── failed_subject_shower.cpp / .hpp
-├── first_page.cpp / .hpp
-├── management.cpp / .hpp
-├── student.cpp / .hpp
-├── student_card.cpp / .hpp
-├── subject_adder.cpp / .hpp
-├── subject_shower.cpp / .hpp
-│
-├── main.cpp
-├── CMakeLists.txt
-├── .gitignore
-├── .gitattributes
+- │
+- ├── absences_shower.cpp / .hpp
+- ├── citizenship_check.cpp / .hpp
+- ├── failed_subject_shower.cpp / .hpp
+- ├── first_page.cpp / .hpp
+- ├── management.cpp / .hpp
+- ├── student.cpp / .hpp
+- ├── student_card.cpp / .hpp
+- ├── subject_adder.cpp / .hpp
+- ├── subject_shower.cpp / .hpp
+- │
+- ├── main.cpp
+- ├── CMakeLists.txt
+- ├── .gitignore
+- ├── .gitattributes
 
 ## 🛠 How to Run
 ```
@@ -119,5 +119,3 @@ BMI:             21.46
 Is Eligible:     true
 ---------------------------------------
 ```
-
-
