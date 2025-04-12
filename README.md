@@ -27,6 +27,8 @@
 - 📌 No advanced libraries or file I/O were used — only variables, loops, and pure logic.
 - 📌 Separated all source files for better real-world practice.
 - 📌 BMI and Citizenship logic were implemented with real formulas & reasoning.
+- 📌 This entire project was developed in just **6 hours**, as part of my effort to master object-oriented C++ with modular file separation and real-world logic.
+
 ---
 ##🏗️ File Structure
 
