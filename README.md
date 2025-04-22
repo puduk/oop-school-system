@@ -122,3 +122,8 @@ BMI:             21.46
 Is Eligible:     true
 ---------------------------------------
 ```
+## 🪪 License
+
+This project is licensed under the [MIT License](https://github.com/puduk/oop-school-system/blob/main/LICENSE) © 2025 [puduk](https://github.com/puduk)
+
+
